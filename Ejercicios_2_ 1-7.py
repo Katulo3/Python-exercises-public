@@ -13,7 +13,7 @@ print("La suma del número", str(n), "es igual a", str(sumatoria))
 
 
 # estatura: float = float(input("Indique su altura en metros:"))
-# peso: float = float(input("Indique su peso gordo tetón en kilos:"))
+# peso: float = float(input("Indique su peso en kilos:"))
 # i_m_c = peso / estatura**2
 
 # print("su resultado es:", round(i_m_c, 4))
